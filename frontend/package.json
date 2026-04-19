@@ -8,7 +8,6 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
-    "build": "react-scripts build"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
